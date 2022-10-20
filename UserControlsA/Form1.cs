@@ -28,7 +28,6 @@ namespace UserControlsA
 
             AboutUC = new AboutUserControl();
             AboutUC.Location = new Point(0, 100);
-
             this.Controls.Add(AboutUC);
 
 
